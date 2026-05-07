@@ -71,16 +71,15 @@ Dashboard Visualization
 # Project Screenshots
 
 ## n8n Workflow
-
-Add your workflow screenshot here.
+<img width="1289" height="532" alt="Screenshot 2026-05-07 at 12 17 54" src="https://github.com/user-attachments/assets/9f34a036-5c8b-410e-bb99-4252b073287a" />
 
 ## Streamlit Dashboard
-
-Add your dashboard screenshot here.
+<img width="1416" height="802" alt="Screenshot 2026-05-07 at 12 19 04" src="https://github.com/user-attachments/assets/4105cb1a-bacd-4998-a571-dffe27825ba0" />
 
 ---
 # Application Link 
-[live application](https://adops-ai-alert-system-9sqnycvwb7dzrv2sq3qt35.streamlit.app)
+[live application](https://adops-ai-
+alert-system-9sqnycvwb7dzrv2sq3qt35.streamlit.app)
 
 
 ---
