@@ -78,8 +78,7 @@ Dashboard Visualization
 
 ---
 # Application Link 
-[live application](https://adops-ai-
-alert-system-9sqnycvwb7dzrv2sq3qt35.streamlit.app)
+[live application](https://adops-ai-alert-system-9sqnycvwb7dzrv2sq3qt35.streamlit.app)
 
 
 ---
